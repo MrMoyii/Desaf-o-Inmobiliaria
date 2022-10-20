@@ -1,0 +1,10 @@
+D:\Users\omarm\source\QuarkAcademy\POO\Desafio-Herencia(1)\Desafio-Herencia(1)\bin\Debug\Desafio-Herencia(1).exe.config
+D:\Users\omarm\source\QuarkAcademy\POO\Desafio-Herencia(1)\Desafio-Herencia(1)\bin\Debug\Desafio-Herencia(1).exe
+D:\Users\omarm\source\QuarkAcademy\POO\Desafio-Herencia(1)\Desafio-Herencia(1)\bin\Debug\Desafio-Herencia(1).pdb
+D:\Users\omarm\source\QuarkAcademy\POO\Desafio-Herencia(1)\Desafio-Herencia(1)\obj\Debug\Desafio-Herencia(1).csproj.AssemblyReference.cache
+D:\Users\omarm\source\QuarkAcademy\POO\Desafio-Herencia(1)\Desafio-Herencia(1)\obj\Debug\Desafio_Herencia_1_.Form1.resources
+D:\Users\omarm\source\QuarkAcademy\POO\Desafio-Herencia(1)\Desafio-Herencia(1)\obj\Debug\Desafio_Herencia_1_.Properties.Resources.resources
+D:\Users\omarm\source\QuarkAcademy\POO\Desafio-Herencia(1)\Desafio-Herencia(1)\obj\Debug\Desafio-Herencia(1).csproj.GenerateResource.cache
+D:\Users\omarm\source\QuarkAcademy\POO\Desafio-Herencia(1)\Desafio-Herencia(1)\obj\Debug\Desafio-Herencia(1).csproj.CoreCompileInputs.cache
+D:\Users\omarm\source\QuarkAcademy\POO\Desafio-Herencia(1)\Desafio-Herencia(1)\obj\Debug\Desafio-Herencia(1).exe
+D:\Users\omarm\source\QuarkAcademy\POO\Desafio-Herencia(1)\Desafio-Herencia(1)\obj\Debug\Desafio-Herencia(1).pdb
